@@ -1,5 +1,9 @@
+How to Run
+Clone this repository:
+git clone https://github.com/SSvk2007/Number-guessing-Game-AI-ML.git
 
-## ▶ How to Run
-1. Clone the repository or download the code:
-   ```bash
-   git clone https://github.com/YourUsername/Number-guessing-Game-AI-ML.git
+Navigate to the project folder:
+cd Number-guessing-Game-AI-ML
+
+Run the game:
+python game.py
