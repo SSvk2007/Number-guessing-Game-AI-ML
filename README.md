@@ -1,15 +1,19 @@
 Number Guessing Game 🎯
 
-This is a simple text-based Python game where the computer randomly picks a number, and the player tries to guess it. After each guess, the game tells you if your guess is too high or too low.
+A simple Python text-based game where the computer randomly picks a number, and you try to guess it. After each guess, the game tells you whether your guess is too high or too low, and it tracks your attempts and high scores.
 
-Features:
+Features
 
-Three difficulty levels (Easy: 1–50, Medium: 1–100, Hard: 1–200)
+✅ Three difficulty levels:
 
-Tracks your number of attempts per game
+Easy: 1–50
 
-Keeps a high score of your best performance
+Medium: 1–100
 
-Input validation for invalid guesses
+Hard: 1–200
 
-Run the game in any Python environment, follow the instructions, and see if you can beat your high score!
+✅ Tracks your current score and high score
+
+✅ Clear instructions for players
+
+✅ Error handling for invalid inputs
