@@ -11,5 +11,5 @@ int main() {
     c = a * b;
     printf("Area of rectangle: %d\n", c);
 
-    return 0;
+    return 0
 } 
